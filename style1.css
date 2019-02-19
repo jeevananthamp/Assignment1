@@ -220,6 +220,19 @@ body,html{
   {
     margin-top: 35vh;
   }
+   .flex-container1__figure
+  {
+    width: 100%;
+    align-content:center;
+  
+  }
+  .flex-container__figure
+  {
+    width: 100%;
+    align-content:center;
+
+  }
+
 
 }
 .important
